@@ -10,7 +10,7 @@ int main(void)
 	{
 		if ((i % 3) == 0 || (i % 5) == 0)
 			sum += i;
-		_putchar(sum);
+		putchar(sum);
 	}
 	_putchar('\n');
 	return (0);
