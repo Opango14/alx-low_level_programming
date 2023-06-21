@@ -12,6 +12,6 @@ int main(void)
 			sum += i;
 		putchar(sum);
 	}
-	_putchar('\n');
+	putchar('\n');
 	return (0);
 }
